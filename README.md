@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kunal Sharma
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/gusfing?label=Follow&style=for-the-badge)](https://github.com/gusfing)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KunalSharma)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kunalsharmadec6)
 
 ---
 
