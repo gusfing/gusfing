@@ -9,7 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    # Add this permissions block to allow pushing to the repo
+    
+    # 1. THIS FIXES THE 128 ERROR: Grants permission to push to the repo
     permissions:
       contents: write
     
@@ -23,7 +24,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        # 2. THIS FIXES THE WARNING: Bumps the action to v5
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
