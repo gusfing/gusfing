@@ -11,7 +11,7 @@ I run **Kawaki Studios**, a small digital agency in India, and use the cashflow 
 
 ### Now
 
-|  |  |  |
+| Venture | What it is | Status |
 |:--|:--|:--|
 | **Kawaki Studios** | Agency — web, SEO, automation and custom AI for clients | Active |
 | **Pixza Studio** | Node-based editor for AI image, 3D, audio and video pipelines | [Building in public](https://github.com/gusfing/pixza_ai) |
@@ -22,7 +22,7 @@ I run **Kawaki Studios**, a small digital agency in India, and use the cashflow 
 
 ### Selected work
 
-|  |  |  |
+| Project | What it does | Stack |
 |:--|:--|:--|
 | [**Kova AI**](https://github.com/gusfing/kova-ai) | Autonomous website architect. Drives Claude Code, Codex and local models with a live Next.js preview. | JavaScript |
 | [**Cutlass**](https://github.com/gusfing/opensubtitle) | Free, local AI caption studio with animated styles and proper Hindi support. | Rust · Tauri |
@@ -65,6 +65,6 @@ I run **Kawaki Studios**, a small digital agency in India, and use the cashflow 
 
 ### Elsewhere
 
-[Instagram](https://instagram.com/gusfing) &nbsp;·&nbsp; [X](https://x.com/gusfing) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gusfing) &nbsp;·&nbsp; [Kawaki Studios](https://kawaki-peach.vercel.app)
+[Instagram](https://www.instagram.com/unscripteddayswithkunal/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@kunalbuildAi) &nbsp;·&nbsp; [X](https://x.com/Kunalsharmadec6) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kunalsharmaai/) &nbsp;·&nbsp; [kawaki.co.in](https://kawaki.co.in/)
 
 <sub>Daily builds under <i>One Problem, One App</i>. No investors, no co-founder — just shipping.</sub>
