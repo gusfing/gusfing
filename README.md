@@ -148,16 +148,42 @@ SaaS development · Ecommerce systems
 
 <div align="center">
 
-<!-- STATS — using multiple fallback sources -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gusfing&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=1E88E5&icon_color=1565C0&text_color=ffffff&cache_seconds=86400" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfing&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=1E88E5&text_color=ffffff&cache_seconds=86400" />
+<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution profile" />
+
+<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most committed languages" />
+<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="When I commit" />
 
 <br/>
 
-<!-- STREAK STATS — alternative host -->
-<img src="https://streak-stats.demolab.com?user=gusfing&theme=tokyonight&hide_border=true&background=0D1B2A&ring=1E88E5&fire=1565C0&currStreakLabel=1E88E5&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com?user=gusfing&theme=tokyonight&hide_border=true&background=0D1B2A&ring=1E88E5&fire=1565C0&currStreakLabel=1E88E5&cache_seconds=86400" alt="Commit streak" />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 🌟 Featured Open Source
+
+| Project | What it does |
+|---|---|
+| [**Kova AI**](https://github.com/gusfing/kova-ai) | Autonomous website architect bridging Claude Code, Codex, OpenCode and local LLMs with live Next.js preview |
+| [**Cutlass**](https://github.com/gusfing/opensubtitle) | Free, local AI caption studio with animated styles and proper Hindi support (Tauri + Rust + React) |
+| [**Video Editor V1**](https://github.com/gusfing/video-editor-v1-skill) | Claude Code skill that turns raw talking-head footage into documentary-style edits, 100% local |
+| [**Agent Orchestrator**](https://github.com/gusfing/agent-orchestrator) | Drop-in protocol that makes AI coding agents plan, delegate and review their own work |
+| [**Debate Reasoning**](https://github.com/gusfing/debate-reasoning) | Multi-agent adversarial debate for hard engineering decisions |
+| [**Chrome Bridge**](https://github.com/gusfing/chrome-exstention) | Lets an AI agent drive your real, logged-in Chrome profile |
 
 ---
 
@@ -169,14 +195,14 @@ SaaS development · Ecommerce systems
 
 **🥇 GUVI Hackathon — AI Summit 2026** · `Finalist`
 
-Built a honeypot security system that detects and traps online scammers using AI-driven behaviour analysis.
+Built a [honeypot security system](https://github.com/gusfing/HoneypotAPI-) that detects and traps online scammers using AI-driven behaviour analysis.
 
 </td>
 <td>
 
 **🥈 AWS Hackathon** · `Semi-Finalist`
 
-Built VaidaLink — AI-powered healthcare app connecting patients to services. Pitched to Amazon technical panel.
+Built [VaidyaLink](https://github.com/gusfing/VaidyaLink) — AI-powered healthcare app connecting patients to services. Pitched to Amazon technical panel.
 
 </td>
 </tr>
