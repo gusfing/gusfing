@@ -1,238 +1,70 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Kunal Sharma — I build AI agents, creative tools and websites." />
+</picture>
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1565C0,100:1E88E5&height=200&section=header&text=Kunal%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Builder%20%C2%B7%20AI%20Operator&descAlignY=58&descSize=20&animation=fadeIn" />
+<br />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1E88E5&center=true&vCenter=true&random=false&width=600&lines=Building+4+companies+simultaneously.;Shipping+before+I%27m+ready.;One+Problem.+One+App.+Every+day.;Building+in+public+%E2%80%94+wins+%2B+failures.;AI+SaaS+founder+%F0%9F%87%AE%F0%9F%87%B3+India" alt="Typing SVG" />
+I run **Kawaki Studios**, a small digital agency in India, and use the cashflow to build my own products. Most of what I make sits where AI meets creative work: agents that write code, tools that edit video, pipelines that generate images. I ship small, ship often, and post the process — wins and misses — as I go.
 
-<br/>
+<br />
 
-<!-- BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/Founder-Kawaki%20Studios-0D1B2A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building-Pixza%20Studio-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fashion-Bazzaro-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Assistant-ARIA-0D47A1?style=for-the-badge&logoColor=white" />
-</p>
+### Now
 
-<p>
-  <img src="https://img.shields.io/badge/GUVI%20AI%20Summit-Finalist%20%F0%9F%8F%86-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS%20Hackathon-Semi--Finalist-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Daily%20Series-One%20Problem%20One%20App-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=gusfing&color=1565C0&style=flat-square&label=profile+views" />
-</p>
+|  |  |  |
+|:--|:--|:--|
+| **Kawaki Studios** | Agency — web, SEO, automation and custom AI for clients | Active |
+| **Pixza Studio** | Node-based editor for AI image, 3D, audio and video pipelines | [Building in public](https://github.com/gusfing/pixza_ai) |
+| **Bazzaro** | Fashion label; every product asset is generated in Pixza | [bazzaro.in](https://bazzaro.in) |
+| **ARIA** | A voice-first AI assistant for Windows, with local-model fallback | In development |
 
-</div>
+<br />
 
----
+### Selected work
 
-### 👋 Who I Am
+|  |  |  |
+|:--|:--|:--|
+| [**Kova AI**](https://github.com/gusfing/kova-ai) | Autonomous website architect. Drives Claude Code, Codex and local models with a live Next.js preview. | JavaScript |
+| [**Cutlass**](https://github.com/gusfing/opensubtitle) | Free, local AI caption studio with animated styles and proper Hindi support. | Rust · Tauri |
+| [**Video Editor V1**](https://github.com/gusfing/video-editor-v1-skill) | Claude Code skill that cuts raw talking-head footage into documentary-style edits. | Python |
+| [**Agent Orchestrator**](https://github.com/gusfing/agent-orchestrator) | Protocol that makes coding agents plan, delegate and review their own work. | Markdown |
+| [**Debate Reasoning**](https://github.com/gusfing/debate-reasoning) | Multi-agent adversarial debate for hard engineering calls. | Markdown |
+| [**VaidyaLink**](https://github.com/gusfing/VaidyaLink) | Turns handwritten medical records into interoperable digital health data. | Python · AWS |
 
-```typescript
-const kunal = {
-  role:     "Founder / Builder / AI Operator",
-  location: "India 🇮🇳",
-  sleep:    "4 AM",  wake: "11 AM",
+<br />
 
-  building: [
-    "Kawaki Studios  → agency (cashflow engine)",
-    "Pixza Studio    → AI image SaaS (pre-revenue, building in public)",
-    "Bazzaro         → fashion ecom brand",
-    "ARIA            → JARVIS-style Windows AI assistant",
-  ],
+### Recognition
 
-  currentFocus:    "Positioning Pixza. Not engineering.",
-  principle:       "Ship before you're ready.",
-  contentSeries:   "One Problem One App — daily builds, public.",
-};
-```
+**Finalist** — GUVI AI Summit Hackathon 2026, for an [AI honeypot](https://github.com/gusfing/HoneypotAPI-) that engages scammers and extracts fraud signals.<br />
+**Semi-finalist** — AWS Hackathon, for [VaidyaLink](https://github.com/gusfing/VaidyaLink), pitched to an Amazon technical panel.
 
----
+<br />
 
-## 🚀 What I'm Building
+### Activity
 
-<table>
-<tr>
-<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Contributions over time" />
+</picture>
 
-### 🎨 Pixza Studio
-> AI image generation SaaS. Solo. No investors.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+</picture>
 
-- Node-based visual workflow editor
-- AI background removal + upscaling + colorization
-- Multi-provider AI cost analysis
-- Docker deployment architecture
-- Full auth + gallery + settings
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake.svg" width="100%" alt="A snake eating the contribution graph" />
+</picture>
 
-![](https://img.shields.io/badge/Status-Building%20in%20Public-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20AI%20APIs-0D1B2A?style=flat-square)
+<br />
 
-</td>
-<td width="50%">
+### Elsewhere
 
-### 🤖 ARIA — Windows AI Assistant
-> JARVIS for Windows. Electron app.
+[Instagram](https://instagram.com/gusfing) &nbsp;·&nbsp; [X](https://x.com/gusfing) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gusfing) &nbsp;·&nbsp; [Kawaki Studios](https://kawaki-peach.vercel.app)
 
-- Groq + Cloudflare + Ollama fallback chaining
-- Obsidian vault voice integration
-- 8+ language code execution engine
-- 25+ Windows system actions via PowerShell
-- WhatsApp automation + wake word detection
-
-![](https://img.shields.io/badge/Status-In%20Development-1E88E5?style=flat-square)
-![](https://img.shields.io/badge/Stack-Electron%20%7C%20Node.js%20%7C%20PowerShell-0D47A1?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👔 Bazzaro
-> Fashion ecom brand. T-shirts + tote bags.
-
-Using Pixza to generate all product assets. Dual purpose: revenue brand + live Pixza case study.
-
-![](https://img.shields.io/badge/Tagline-Uniquely%20You-success?style=flat-square)
-![](https://img.shields.io/badge/Assets-Generated%20with%20Pixza-1565C0?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🏢 Kawaki Studios
-> Digital agency. The cashflow engine.
-
-Web dev · SEO · Performance marketing
-LinkedIn automation · Custom AI solutions
-SaaS development · Ecommerce systems
-
-![](https://img.shields.io/badge/Status-Active%20Clients-success?style=flat-square)
-![](https://img.shields.io/badge/Type-Revenue%20Engine-0D1B2A?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ One Problem. One App. (Daily Series)
-
-> Every day I find a problem. Every day I ship a solution.
-> No waitlists. No product hunts. Just tools I actually need.
-
-| # | Problem | App Built | Time | Status |
-|---|---------|-----------|------|--------|
-| 01 | Video editor tools cost $20/mo just to remove silence | **Silence Remover** — auto-detects + cuts silence gaps | 3 hrs | ✅ Shipped |
-| 02 | _(today's problem)_ | — | — | 🔨 Building |
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution profile" />
-
-<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most committed languages" />
-<img src="https://raw.githubusercontent.com/gusfing/gusfing/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="When I commit" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=gusfing&theme=tokyonight&hide_border=true&background=0D1B2A&ring=1E88E5&fire=1565C0&currStreakLabel=1E88E5&cache_seconds=86400" alt="Commit streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/gusfing/gusfing/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-## 🌟 Featured Open Source
-
-| Project | What it does |
-|---|---|
-| [**Kova AI**](https://github.com/gusfing/kova-ai) | Autonomous website architect bridging Claude Code, Codex, OpenCode and local LLMs with live Next.js preview |
-| [**Cutlass**](https://github.com/gusfing/opensubtitle) | Free, local AI caption studio with animated styles and proper Hindi support (Tauri + Rust + React) |
-| [**Video Editor V1**](https://github.com/gusfing/video-editor-v1-skill) | Claude Code skill that turns raw talking-head footage into documentary-style edits, 100% local |
-| [**Agent Orchestrator**](https://github.com/gusfing/agent-orchestrator) | Drop-in protocol that makes AI coding agents plan, delegate and review their own work |
-| [**Debate Reasoning**](https://github.com/gusfing/debate-reasoning) | Multi-agent adversarial debate for hard engineering decisions |
-| [**Chrome Bridge**](https://github.com/gusfing/chrome-exstention) | Lets an AI agent drive your real, logged-in Chrome profile |
-
----
-
-## 🏆 Competitions
-
-<table>
-<tr>
-<td>
-
-**🥇 GUVI Hackathon — AI Summit 2026** · `Finalist`
-
-Built a [honeypot security system](https://github.com/gusfing/HoneypotAPI-) that detects and traps online scammers using AI-driven behaviour analysis.
-
-</td>
-<td>
-
-**🥈 AWS Hackathon** · `Semi-Finalist`
-
-Built [VaidyaLink](https://github.com/gusfing/VaidyaLink) — AI-powered healthcare app connecting patients to services. Pitched to Amazon technical panel.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📢 Building in Public
-
-> I document everything. The wins, the doubt, the daily decisions.
-> Not a highlight reel — the part before the highlight reel.
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusfing)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gusfing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusfing)
-
-</div>
-
-**Active series:**
-- 📹 **Daily Mini Vlog** — 15 seconds. What building actually looks like.
-- 🛠️ **One Problem One App** — daily app builds, documented publicly
-- 🧵 **Pixza in Public** — real SaaS journey. No highlights only.
-
----
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,50:1565C0,100:0D1B2A&height=120&section=footer&animation=fadeIn" />
-
-<div align="center">
-  <sub>Building in public from India 🇮🇳 · No investors · No co-founder · Just shipping.</sub>
-</div>
+<sub>Daily builds under <i>One Problem, One App</i>. No investors, no co-founder — just shipping.</sub>
