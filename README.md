@@ -3,6 +3,11 @@
   <img src="./assets/header-light.svg" width="100%" alt="Kunal Sharma — I build AI agents, creative tools and websites." />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusfing/gusfing/live/live-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gusfing/gusfing/live/live-light.svg" width="100%" alt="Live: what I last shipped, whether I'm awake, and which of the last 30 days I shipped code." />
+</picture>
+
 <br />
 
 I run **Kawaki Studios**, a small digital agency in India, and use the cashflow to build my own products. Most of what I make sits where AI meets creative work: agents that write code, tools that edit video, pipelines that generate images. I ship small, ship often, and post the process — wins and misses — as I go.
